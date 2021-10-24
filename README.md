@@ -1,5 +1,7 @@
 # MATLAB-Data-to-ZEMAX-Lens-Ray-Tracing
 
+[![View MATLAB Data to ZEMAX Lens Ray Tracing on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://www.mathworks.com/matlabcentral/fileexchange/101013-matlab-data-to-zemax-lens-ray-tracing)
+
 Replicating "General formula for bi-aspheric singlet lens design free of spherical aberration" by R. G. González-Acuña &amp; H. A. Chaparro-Romo
 
 Sources:
